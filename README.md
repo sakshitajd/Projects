@@ -9,3 +9,4 @@ The Rock-Paper-Scissors game is a simple hand game played between two players, w
 
 This project involves creating a web-based version of the game where the player competes against the computer.
 
+![image](https://github.com/user-attachments/assets/5a5ea465-f13a-4f70-9de0-ed22308f3161)
